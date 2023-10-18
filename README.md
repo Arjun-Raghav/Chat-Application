@@ -12,7 +12,7 @@ git clone https://github.com/Arjun-Raghav/Chat-Application.git
 cd Chat-Application
 ```
 
-Now rename env files from .env.example to .env
+Rename env files from .env.example to .env
 ```shell
 cd public
 mv .env.example .env
@@ -22,8 +22,7 @@ mv .env.example .env
 cd ..
 ```
 
-
-Now install the dependencies
+Install the dependencies
 ```shell
 cd server
 yarn
@@ -31,20 +30,19 @@ cd ..
 cd public
 yarn
 ```
-We are almost done, Now just start the development server.
 
-For Frontend.
+To run the Frontend:
 ```shell
 cd public
 yarn start
 ```
-For Backend.
 
+To run the Backend:
 Open another terminal in folder, Also make sure mongodb is running in background.
 ```shell
 cd server
 yarn start
 ```
 
-Done! Now open localhost:3000 in your browser.
+Now it will open localhost:3000 in your browser.
 
