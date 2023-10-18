@@ -1,7 +1,10 @@
 # Chat-Application
 
 ![login page](./images/snappy_login.png)
+
 ![home page](./images/snappy.png)
+
+![chat page](./images/snappy_chat_page.png)
 
 ### Primary Requirements
 - [Nodejs](https://nodejs.org/en/download)
